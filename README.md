@@ -43,17 +43,15 @@ Collection of resources to learn web development
 
 ### 2.4. Static Typing
 
-- Fundamental
-- Generic Type
+- [Fundamental](frontend/static-typing/fundamental.md)
 
 ### 2.5. React
 
-- Fundamental
-- Hook
+- [Fundamental](frontend/react/fundamental.md)
 
 ### 2.6. Next.js
 
-- Fundamental
+- [Fundamental](frontend/next-js/fundamental.md)
 
 ## 3. Backend
 
