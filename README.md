@@ -1,5 +1,7 @@
 # Web Roadmap
 
+Collection of resources to learn web development
+
 ## 1. FullStack
 
 ### 1.1. Static Site
@@ -27,38 +29,31 @@
 
 ### 2.1. Single Page Application
 
-- Client Side Rendering
-- Client Side Routing
-- Data Fetching
-- State Management
-  - State
-  - Side Effect
-  - Reducer
-  - State Machine
+- [Fundamental](frontend/single-page-application/fundamental.md)
 
 ### 2.2. Node.js
 
-- Fundamental
-- HTTP Server
+- [Fundamental](frontend/node-js/fundamental.md)
+- [HTTP Server](frontend/node-js/http-server.md)
 
 ### 2.3. Modularization
 
-- Script
-- IIFE
-- CommonJS
-- AMD
-- UMD
-- ES Modules
-- Transpiler
-- Bundler
+- [Fundamental](frontend/modularization/fundamental.md)
+- [Module Bundler](frontend/modularization/module-bundler.md)
 
-### 2.4. Bundling
+### 2.4. Static Typing
 
-### 2.5. Static Typing
+- Fundamental
+- Generic Type
 
-### 2.6. React
+### 2.5. React
 
-### 2.7. Next.js
+- Fundamental
+- Hook
+
+### 2.6. Next.js
+
+- Fundamental
 
 ## 3. Backend
 
