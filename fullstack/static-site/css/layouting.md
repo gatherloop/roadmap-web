@@ -19,7 +19,7 @@ Agar dapat menerapkan layouting, kita perlu berkenalan dengan beberapa property 
 ## Referensi Belajar
 
 - [CSS Layouting Web Programming UNPAS](https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr)
-- [CSS Flexbox Web Programming UNPAS](static-site/css/flexbox.md)
+- [CSS Flexbox Web Programming UNPAS](https://www.youtube.com/watch?v=-J372iDFU8Y)
 
 ## Latihan
 
