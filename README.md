@@ -20,6 +20,8 @@ Collection of resources to learn web development
 
 - Golang
   - [Fundamental](fullstack/dynamic-site/golang/fundamental.md)
+  - [Scanner dan Pointer](fullstack/dynamic-site/golang/scanner-pointer.md)
+  - [Struct dan Method](fullstack/dynamic-site/golang/struct-method.md)
   - [Web Server](fullstack/dynamic-site/golang/web-server.md)
 - Database
   - [Fundamental](fullstack/dynamic-site/database/fundamental.md)
