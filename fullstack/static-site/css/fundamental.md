@@ -10,11 +10,7 @@ Nah, untuk menerapkan styling pada website, kita bisa menggunakan CSS
 
 ## Tujuan
 
-Disini kita memiliki tujuan agar bisa membuat tampilan website yang lebih menarik menggunakan CSS
-
-## Topik
-
-Berikut beberapa topik yang akan dibahas :
+Disini kita memiliki tujuan agar bisa membuat tampilan website yang lebih menarik menggunakan CSS. Berikut beberapa topik yang akan dibahas :
 
 1. Cara penulisan CSS
 2. Selector CSS

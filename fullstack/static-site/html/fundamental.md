@@ -8,11 +8,7 @@ Nah, sama seperti membuat bangunan tadi, langkah pertama yang harus kita lakukan
 
 ## Tujuan
 
-Disini kita memiliki tujuan agar dapat membuat struktur website sederhana menggunakan HTML
-
-## Topik
-
-Agar dapat membuat struktur website sederhana menggunakan HTML, maka kita harus mempelajari tag - tag dasar HTML yang meliputi :
+Disini kita memiliki tujuan agar dapat membuat struktur website sederhana menggunakan HTML. Agar dapat membuat struktur website sederhana menggunakan HTML, maka kita harus mempelajari tag - tag dasar HTML yang meliputi :
 
 - Typography
 - Hyperlink

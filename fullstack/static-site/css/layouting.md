@@ -6,11 +6,7 @@ Sebelumnya, kita sudah belajar bagaimana cara melakukan styling pada sebuah webs
 
 ## Tujuan
 
-Disini kita bertujuan untuk menerapkan layouting menggunakan CSS pada website kita, sehingga nantinya kita dapat membuat tampilan website yang lebih rapi
-
-## Topik
-
-Agar dapat menerapkan layouting, kita perlu berkenalan dengan beberapa property baru di CSS, yaitu :
+Disini kita bertujuan untuk menerapkan layouting menggunakan CSS pada website kita, sehingga nantinya kita dapat membuat tampilan website yang lebih rapi. Agar dapat menerapkan layouting, kita perlu berkenalan dengan beberapa property baru di CSS, yaitu :
 
 - margin dan padding
 - display
