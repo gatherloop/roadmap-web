@@ -6,4 +6,4 @@
 
 ## Latihan
 
-- Menerapkan clean achitecture ke API
+- Menerapkan clean achitecture pada API

@@ -4,4 +4,4 @@
 
 ## Latihan
 
-- Website CRUD
+- Website CRUD menggunakan array

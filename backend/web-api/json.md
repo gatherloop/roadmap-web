@@ -6,6 +6,4 @@
 
 ## Latihan
 
-- Membuat API POS
-- Membuat API sekolah
-- Membuat API restoran
+- Membuat API yang terintegrasi ke database

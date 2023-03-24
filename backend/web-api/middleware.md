@@ -6,4 +6,4 @@
 
 ## Latihan
 
-- Membuat middleware logging
+- Menerapkan middleware logging pada API

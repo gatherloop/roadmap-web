@@ -6,4 +6,4 @@
 
 ## Latihan
 
-- Menerapkan JWT ke API
+- Menerapkan autentikasi berbasis JWT pada API

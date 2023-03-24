@@ -6,6 +6,4 @@
 
 ## Latihan
 
-- Membuat program untuk menghitung luas bangun
-- Membuat todolist
-- Membuat program kasir
+- Membuat program sederhana berbasis CLI

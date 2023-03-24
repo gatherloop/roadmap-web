@@ -4,6 +4,4 @@
 
 ## Latihan
 
-- Membuat database POS
-- Membuat database sekolah
-- Membuat database restoran
+- Membuat desain database

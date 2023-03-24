@@ -11,7 +11,6 @@ Collection of resources to learn web development
 - CSS
   - [Fundamental](fullstack/static-site/css/fundamental.md)
   - [Layouting](fullstack/static-site/css/layouting.md)
-  - Media Query
 - Javascript
   - [Fundamental](fullstack/static-site/javascript/fundamental.md)
   - [DOM](fullstack/static-site/javascript/dom.md)

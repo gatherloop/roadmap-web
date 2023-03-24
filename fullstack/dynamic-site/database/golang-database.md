@@ -4,6 +4,4 @@
 
 ## Latihan
 
-- Membuat website CRUD POS
-- Membuat website CRUD sekolah
-- Membuat website CRUD restoran
+- Membuat website CRUD yang terintegrasi ke Database

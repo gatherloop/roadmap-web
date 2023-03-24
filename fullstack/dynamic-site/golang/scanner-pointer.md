@@ -7,6 +7,4 @@
 
 ## Latihan
 
-- Membuat program untuk menghitung luas bangun menggunakan scanner
-- Membuat todolist menggunakan scanner
-- Membuat program kasir menggunakan scanner
+- Menerapkan input pada program berbasis CLI
