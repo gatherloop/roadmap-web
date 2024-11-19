@@ -1,70 +1,149 @@
 # Web Roadmap
 
-Collection of resources to learn web development
+Roadmap kelas web
 
-## 1. FullStack
+# 1. Web Statis
 
-### 1.1. Static Site
+## 1.1. HTML
 
-- HTML
-  - [Fundamental](fullstack/static-site/html/fundamental.md)
-- CSS
-  - [Fundamental](fullstack/static-site/css/fundamental.md)
-  - [Layouting](fullstack/static-site/css/layouting.md)
-- Javascript
-  - [Fundamental](fullstack/static-site/javascript/fundamental.md)
-  - [DOM](fullstack/static-site/javascript/dom.md)
+- Pendahuluan
+- Typography
+- Hyperlink
+- Image
+- List
+- Table
+- Form
+- Tugas Akhir
 
-### 1.2. Dynamic Site
+## 1.2. CSS
 
-- Golang
-  - [Fundamental](fullstack/dynamic-site/golang/fundamental.md)
-  - [Scanner dan Pointer](fullstack/dynamic-site/golang/scanner-pointer.md)
-  - [Struct dan Method](fullstack/dynamic-site/golang/struct-method.md)
-  - [Web Server](fullstack/dynamic-site/golang/web-server.md)
-- Database
-  - [Fundamental](fullstack/dynamic-site/database/fundamental.md)
-  - [Golang Database](fullstack/dynamic-site/database/golang-database.md)
+- Pendahuluan
+- Typography
+- Background
+- Border
+- Spacing
+- Display
+- Position
+- Flexbox
+- Media Query
+- Tugas Akhir
 
-## 2. Frontend
+## 1.3. Javascript
 
-### 2.1. Single Page Application
+- Pendahuluan
+- Variable
+- Object
+- Array
+- Percabangan
+- Perulangan
+- Function
+- Array Method
+- Tugas Akhir
 
-- [Fundamental](frontend/single-page-application/fundamental.md)
+## 1.4. DOM
 
-### 2.2. Node.js
+- Pendahuluan
+- Mengakses Element
+- Manipulasi Element
+- Manipulasi Style
+- Tugas Akhir
 
-- [Fundamental](frontend/node-js/fundamental.md)
-- [HTTP Server](frontend/node-js/http-server.md)
+# 2. Web Dinamis
 
-### 2.3. Modularization
+## 2.1. Web Server
 
-- [Fundamental](frontend/modularization/fundamental.md)
-- [Module Bundler](frontend/modularization/module-bundler.md)
+- Pendahuluan
+- Web Server
+- Routing
+- Static Assets
+- Tugas Akhir
 
-### 2.4. Static Typing
+## 2.2. Database
 
-- [Fundamental](frontend/static-typing/fundamental.md)
+- Pendahuluan
+- DDL
+- DML
+- Normalisasi
+- Join
+- Node.js Database
+- Tugas Akhir
 
-### 2.5. React
+## 2.3. Autentikasi
 
-- [Fundamental](frontend/react/fundamental.md)
+- Pendahuluan
+- Cookies
+- Session
+- Tugas Akhir
 
-### 2.6. Next.js
+# 3. Web API
 
-- [Fundamental](frontend/next-js/fundamental.md)
+## 3.1. Get Data
 
-## 3. Backend
+- Pendahuluan
+- Membuat API
+- Consume Data
+- Sorting
+- Filtering
+- Pagination
+- Tugas Akhir
 
-### 3.1. Web API
+## 3.2. Form Handling
 
-- [JSON](backend/web-api/json.md)
-- [Router](backend/web-api/router.md)
-- [ORM](backend/web-api/orm.md)
-- [Middleware](backend/web-api/middleware.md)
-- [Authentication](backend/web-api/authentication.md)
-- [Clean Architecture](backend/web-api/clean-architecture.md)
+- Pendahuluan
+- Create
+- Update
+- Delete
+- Send Form Data
+- Tugas Akhir
 
-### 3.2. Microservices
+## 3.3. Authentication
 
-To be added
+# 4. Web App
+
+## 4.1. Single Page Application
+
+- Pendahuluan
+- Client Side Rendering
+- Client Side Routing
+- Server Side Routing
+- Tugas Akhir
+
+## 4.2. Modularization
+
+- Pendahuluan
+- Javascript Module
+- Bundler
+- Tugas Akhir
+
+## 4.3. State
+
+- Pendahuluan
+- State
+- Side Effect
+- React
+
+## 4.4. React.js
+
+- Pendahuluan
+- State
+- Side Effect
+- Context
+- Tugas Akhir
+
+## 4.5. Server Fetching
+
+- Pendahuluan
+- Server Side Rendering
+- Server Side Fetching
+
+## 4.6. Next.js
+
+- Pendahuluan
+- Routing
+- SSR (Server Side Rendering)
+- ISR (Incremental Static Regeneration)
+- Server Component
+
+# 5. Infrastructure
+
+To Be Added
