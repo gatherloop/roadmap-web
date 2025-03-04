@@ -2,14 +2,7 @@
 
 Roadmap kelas web
 
-- Pertemuan 1
-  - Typography
-  - Hyperlink
-  - Image
-  - List
-  - Table
-  - Form
-  - Briefing tugas HTML
+- [Pertemuan 1 - HTML](docs/pertemuan1.md)
 - Pertemuan 2
   - Pembahasan tugas HTML
   - Pendahuluan
