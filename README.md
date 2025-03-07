@@ -3,14 +3,7 @@
 Roadmap kelas web
 
 - [Pertemuan 1 - HTML](docs/pertemuan1.md)
-- Pertemuan 2
-  - Pembahasan tugas HTML
-  - Pendahuluan
-  - Typography
-  - Background
-  - Border
-  - Spacing
-  - Briefing tugas CSS (Alert, Button)
+- [Pertemuan 2 - CSS](docs/pertemuan2.md)
 - Pertemuan 3
   - Pembahasan Tugas (Alert, Button)
   - Display + Flexbox
