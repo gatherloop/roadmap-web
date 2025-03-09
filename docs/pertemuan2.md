@@ -8,10 +8,9 @@ Ketika kita membangun rumah kita memerlukan sebuah bahan untuk mempercantik tamp
 
 Disini kita bertujuan untuk mempelajari cara styling CSS untuk membuat struktur website lebih menarik. Berikut topik - topik yang harus kita pelajari :
 
-- [Pembahasan tugas HTML]()
 - [Pendahuluan](https://www.w3schools.com/css/css_intro.asp)
 - [Typography](https://www.w3schools.com/css/css_font.asp)
 - [Background](https://www.w3schools.com/css/css_background.asp)
 - [Border](https://www.w3schools.com/css/css_border.asp)
-- [Spacing](https://www.w3schools.com/css/css_text_spacing.asp)
-- [Briefing tugas CSS (Alert, Button)]()
+- [Margin](https://www.w3schools.com/css/css_margin.asp)
+- [Padding](https://www.w3schools.com/css/css_padding.asp)
