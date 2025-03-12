@@ -5,7 +5,6 @@ Roadmap kelas web
 - [Pertemuan 1 - HTML](docs/pertemuan1.md)
 - [Pertemuan 2 - CSS](docs/pertemuan2.md)
 - Pertemuan 3
-  - Pembahasan Tugas (Alert, Button)
   - Display + Flexbox
   - Briefing tugas (Card, Navbar)
 - Pertemuan 4
