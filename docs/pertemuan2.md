@@ -14,3 +14,9 @@ Disini kita bertujuan untuk mempelajari cara styling CSS untuk membuat struktur 
 - [Border](https://www.w3schools.com/css/css_border.asp)
 - [Margin](https://www.w3schools.com/css/css_margin.asp)
 - [Padding](https://www.w3schools.com/css/css_padding.asp)
+
+## Latihan
+
+- [Alert](https://getbootstrap.com/docs/4.1/components/alerts/)
+- [Button](https://getbootstrap.com/docs/4.1/components/buttons/)
+- [Card](https://getbootstrap.com/docs/4.1/components/card/)
