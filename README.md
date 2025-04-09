@@ -12,41 +12,30 @@ Roadmap kelas web
   - Position
   - Briefing tugas (tooltip, modal, dll)
 - Pertemuan 5
-  - Pembahasan tugas (tooltip, modal, dll)
-  - Briefing tugas Desain Todolist
-  - Pembahasan tugas (desain CRUD)
-- Pertemuan 6
   - Intro to Javascript (Syntax)
   - Latihan javascript
-- Pertemuan 7
+- Pertemuan 6
   - DOM
   - Briefing tugas DOM (popover, dropdown, modal)
-- Pertemuan 8
-  - Pembahasan tugas DOM (popover, dropdown, modal)
-  - Pembuatan todolist
-- Pertemuan 9
+- Pertemuan 7
   - Pembahasan tugas (Create, Read ke localstorage)
   - Pengenalan web server
   - Nodejs
   - Routing
   - Output HTML
   - Menyimpan Assets (CSS, JS, Image)
-- Pertemuan 10
+- Pertemuan 8
   - Query String (GET)
   - Form Handling (POST)
   - Inject data ke HTML
-- Pertemuan 11
+- Pertemuan 9
   - Membuat todolist yang disimpan di server
-- Pertemuan 12
+- Pertemuan 10
   - Database (MySQL)
-- Pertemuan 13
+- Pertemuan 11
   - Package Manager (NPM)
   - Integrasi Database Node.js
   - CRUD
-- Pertemuan 14
+- Pertemuan 12
   - Cookies
   - Authentication
-- Pertemuan 15
-  - Project
-- Pertemuan 16
-  - Project
