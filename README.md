@@ -5,7 +5,7 @@ Roadmap kelas web
 - [Pertemuan 1 - HTML](docs/pertemuan1.md)
 - [Pertemuan 2 - CSS](docs/pertemuan2.md)
 - Pertemuan 3
-  - Display inline, block, inline-block
+  - Display block, inline, inline-block
   - Briefing tugas (Card, Navbar)
 - Pertemuan 4
   - Display flexbox
