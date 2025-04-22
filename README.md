@@ -5,12 +5,11 @@ Roadmap kelas web
 - [Pertemuan 1 - HTML](docs/pertemuan1.md)
 - [Pertemuan 2 - CSS](docs/pertemuan2.md)
 - Pertemuan 3
-  - Display + Flexbox
+  - Display inline, block, inline-block
   - Briefing tugas (Card, Navbar)
 - Pertemuan 4
-  - Pembahasan Tugas (Card, Navbar)
-  - Position
-  - Briefing tugas (tooltip, modal, dll)
+  - Display flexbox
+  - Section Landing page ? Sisanya lanjutin ?
 - Pertemuan 5
   - Intro to Javascript (Syntax)
   - Latihan javascript
