@@ -4,12 +4,8 @@ Roadmap kelas web
 
 - [Pertemuan 1 - HTML](docs/pertemuan1.md)
 - [Pertemuan 2 - CSS](docs/pertemuan2.md)
-- Pertemuan 3
-  - Display block, inline, inline-block
-  - Briefing tugas (Card, Navbar)
-- Pertemuan 4
-  - Display flexbox
-  - Section Landing page ? Sisanya lanjutin ?
+- [Pertemuan 3](docs/pertemuan3.md)
+- [Pertemuan 4](docs/pertemuan4.md)
 - Pertemuan 5
   - Intro to Javascript (Syntax)
   - Latihan javascript
