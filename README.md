@@ -4,11 +4,9 @@ Roadmap kelas web
 
 - [Pertemuan 1 - HTML](docs/pertemuan1.md)
 - [Pertemuan 2 - CSS](docs/pertemuan2.md)
-- [Pertemuan 3](docs/pertemuan3.md)
-- [Pertemuan 4](docs/pertemuan4.md)
-- Pertemuan 5
-  - Intro to Javascript (Syntax)
-  - Latihan javascript
+- [Pertemuan 3 - Display | Block, Inline, Inline-block](docs/pertemuan3.md)
+- [Pertemuan 4 - Display | Flexbox](docs/pertemuan4.md)
+- [Pertemuan 5 - Intro to Javascript](docs/pertemuan5.md)
 - Pertemuan 6
   - DOM
   - Briefing tugas DOM (popover, dropdown, modal)

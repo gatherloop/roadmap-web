@@ -1,4 +1,4 @@
-# Block, Inline, dan Inline-Block
+# Block, Inline, dan Inline-block
 
 ## Latar Belakang
 
