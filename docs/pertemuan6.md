@@ -2,7 +2,7 @@
 
 ## Latar Belakang
 
-JavaScript DOM (Document Object Model) adalah cara untuk mengakses dan mengubah struktur dan konten halaman web. Dengan menggunakan DOM, kita dapat membuat halaman web yang lebih interaktif dan dinamis. Misalnya, saat kita ingin menampilkan atau menyembunyikan elemen pada halaman web, mengubah warna atau ukuran elemen, atau menambahkan event pada elemen, kita menggunakan DOM. Sebagai salah satu teknologi inti dari World Wide Web, DOM memungkinkan kita untuk membuat halaman web yang lebih hidup dan responsif.
+JavaScript DOM (Document Object Model) adalah cara untuk mengakses dan mengubah struktur dan konten halaman web. Dengan menggunakan DOM, kita dapat membuat halaman web yang lebih interaktif dan dinamis. Misalnya, saat kita ingin menampilkan atau menyembunyikan elemen pada halaman web, mengubah warna atau ukuran elemen, atau menambahkan event pada elemen, kita menggunakan DOM. Sebagai salah satu teknologi inti dari World Wide Web, DOM memungkinkan kita untuk membuat halaman web yang lebih hidup dan responsif
 
 ## Tujuan
 
