@@ -7,9 +7,7 @@ Roadmap kelas web
 - [Pertemuan 3 - Display | Block, Inline, Inline-block](docs/pertemuan3.md)
 - [Pertemuan 4 - Display | Flexbox](docs/pertemuan4.md)
 - [Pertemuan 5 - Intro to Javascript](docs/pertemuan5.md)
-- Pertemuan 6
-  - DOM
-  - Briefing tugas DOM (popover, dropdown, modal)
+- [Pertemuan 6 - Document Object Model (DOM)](docs/pertemuan6.md)
 - Pertemuan 7
   - Pembahasan tugas (Create, Read ke localstorage)
   - Pengenalan web server
