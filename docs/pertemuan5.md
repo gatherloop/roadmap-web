@@ -12,8 +12,8 @@ Berikut daftar topik yang bakal kita pelajari bareng:
 
 - [Output](https://www.petanikode.com/javascript-output/)
 - [Variabel dan Tipe Data](https://www.petanikode.com/javascript-variabel/)
+- [Function](https://www.petanikode.com/javascript-fungsi/)
 - [Perulangan](https://www.petanikode.com/javascript-perulangan/)
 - [Percabangan](https://www.petanikode.com/javascript-percabangan/)
 - [Array](https://www.petanikode.com/javascript-array/)
 - [Object](https://www.petanikode.com/javascript-objek/)
-- [Function](https://www.petanikode.com/javascript-fungsi/)
