@@ -10,11 +10,7 @@ Roadmap kelas web
 - [Pertemuan 6 - Document Object Model (DOM)](docs/pertemuan6.md)
 - [pertemuan 7 - Local Storage](docs/pertemuan7.md)
 - [Pertemuan 8 - web server(NodeJs)](docs/pertemuan8.md)
-- Pertemuan 9
-  - Query String (GET)
-  - Form Handling (POST)
-  - Inject data ke HTML
-  - Membuat todolist yang disimpan di server
+- [pertemuan 9 - NPM , http metode , dan express ](docs/pertemuan9.md)
 - Pertemuan 10
   - Database (MySQL)
 - Pertemuan 11
