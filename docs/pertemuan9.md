@@ -4,12 +4,13 @@
 ### NPM
 npm (Node Package Manager) adalah alat bawaan Node.js yang digunakan untuk mengelola paket atau library JavaScript dalam suatu proyek, termasuk menginstal, menghapus, dan mencatat dependensi dalam file package.json.
 
-### http method
-HTTP Method (Metode HTTP) adalah cara yang digunakan oleh client (seperti browser) untuk memberi tahu server tindakan apa yang ingin dilakukan terhadap suatu resource (data) dalam komunikasi melalui protokol HTTP.
 
 ### express
 
 Express adalah framework web untuk Node.js yang ringan dan fleksibel, digunakan untuk membangun aplikasi web dan API dengan cepat. Express menyederhanakan proses penanganan routing, request/response, middleware, dan template engine, sehingga pengembang tidak perlu menulis kode HTTP dasar dari nol. Dengan Express, kamu bisa membuat server dan endpoint hanya dengan beberapa baris kode, misalnya app.get('/', callback) untuk menangani permintaan ke halaman utama. Express mendukung berbagai metode HTTP (GET, POST, PUT, DELETE, dll.), serta dapat dikombinasikan dengan database, autentikasi, dan berbagai library lain untuk membangun aplikasi fullstack modern.
+
+### http method
+HTTP Method (Metode HTTP) adalah cara yang digunakan oleh client (seperti browser) untuk memberi tahu server tindakan apa yang ingin dilakukan terhadap suatu resource (data) dalam komunikasi melalui protokol HTTP.
 
 ## Tujuan
 
