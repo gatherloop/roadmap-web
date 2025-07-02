@@ -11,8 +11,7 @@ Roadmap kelas web
 - [pertemuan 7 - Local Storage](docs/pertemuan7.md)
 - [Pertemuan 8 - web server(NodeJs)](docs/pertemuan8.md)
 - [pertemuan 9 - NPM , http metode , dan express ](docs/pertemuan9.md)
-- Pertemuan 10
-  - Database (MySQL)
+- [Pertemuan 10 - Database (MySQL)](docs/pertemuan10.md)
 - Pertemuan 11
   - Package Manager (NPM)
   - Integrasi Database Node.js
